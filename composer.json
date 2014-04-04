@@ -1,0 +1,16 @@
+{
+    "name": "aschroder/magespeedtest",
+    "type": "magento-module",
+    "license": "GPL-3.0+",
+    "description": "Magento Speed Test Extension",
+    "homepage": "http://www.magespeedtest.com",
+    "authors": [
+        {
+            "name": "Ashley Schroder",
+            "email": "ashley@magespeedtest.com"
+        }
+    ],
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
